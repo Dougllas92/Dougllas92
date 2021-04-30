@@ -1,0 +1,28 @@
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+<p align="left"> 
+  Ei 👋, meu nome é Douglas estou iniciando na programação com <strong>React Native e NodeJs</strong>.<br>
+</p>
+
+<p align="left">
+  🦄 Linguagens: <strong>Javascript, Typescript, React Native e NodeJs</strong>
+</p>
+
+<p align="left">
+  💼 Ferramentas: <strong>Vscode, Adobe XD, Figma, (git e github aprendendo a utilizar)</strong>
+</p>
+
+<p align="left">
+  💌 Ai vai minhas redes sociais se quiser bater um papo, não hesite em mandar mensagem: ⤵️
+</p>
+
+<p align="left">
+    <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglas-lopes-b72b041aa/" /></a>
+
+  <a href="#" alt="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/dougllas.lopes.13"/></a>
+
+  <a href="#" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/dougllas.lopes.92"/></a>
+</p>  
